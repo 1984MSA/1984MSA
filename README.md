@@ -1,11 +1,17 @@
 # ManoelAraujo_Vitae
 Seja bem vindo ao meu Github!
 
+### Sobre mim
+    
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/1984MSA) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](LINK_LINKEDIN)
+
 <div align="center">
   <a href="https://github.com/1984MSA">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=1984MSA&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1984MSA&layout=compact&langs_count=7&theme=onedark"/>
 </div>
+  
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="50" width="50" src="https://github.com/1984MSA/MSA_Arquivos/blob/main/Logo/Screenshot_1.png">
@@ -18,4 +24,6 @@ Seja bem vindo ao meu Github!
   <img align="center" alt="vs" height="40" width="40" src="https://github.com/1984MSA/MSA_Arquivos/blob/main/Logo/Screenshot_4.png">
   <img align="center" alt="react" height="50" width="50" src="https://github.com/1984MSA/MSA_Arquivos/blob/main/Logo/Screenshot_8.png">
 </div>
+  
+ ### Obrigado!
 
