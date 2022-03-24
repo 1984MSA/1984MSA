@@ -26,7 +26,7 @@ Seja bem vindo ao meu Github!
   
  ### Contato:
     
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-gren?style=flat-square&logo=whatsapp&logoColor=white&link=LINK_GIT)]()
+[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-gren?style=flat-square&logo=whatsapp&logoColor=white&link=LINK_GIT)](https://wa.me/message/B7EWIGLMRFLNN1)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=LINK_GIT)]() 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](LINK_LINKEDIN)
 
