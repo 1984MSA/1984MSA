@@ -1,9 +1,7 @@
 # ManoelAraujo_Vitae 
 Seja bem vindo ao meu Github!
 
-
-
-## Sobre mim
+## Sobre
     
 
 
