@@ -1,10 +1,11 @@
-# ManoelAraujo_Vitae
+# ManoelAraujo_Vitae 
 Seja bem vindo ao meu Github!
 
-### Sobre mim
+
+
+## Sobre mim
     
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/1984MSA) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](LINK_LINKEDIN)
+
 
 <div align="center">
   <a href="https://github.com/1984MSA">
@@ -25,5 +26,9 @@ Seja bem vindo ao meu Github!
   <img align="center" alt="react" height="50" width="50" src="https://github.com/1984MSA/MSA_Arquivos/blob/main/LogoGray/Screenshot_8.1.png">
 </div>
   
- ### Obrigado!
+ ### Contato:
+    
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-gren?style=flat-square&logo=whatsapp&logoColor=white&link=LINK_GIT)]()
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=LINK_GIT)]() 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](LINK_LINKEDIN)
 
