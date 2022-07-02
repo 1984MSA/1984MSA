@@ -22,13 +22,13 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
+  <img src="https://github.com/1984MSA/1984MSA/blob/main/LogoGray/Screenshot_3.1.png" height="50" width="52" alt="javascript logo"  />
+  <img src="https://github.com/1984MSA/1984MSA/blob/main/LogoGray/Screenshot_6.1.png" height="50" width="52" alt="python logo"  />
+  <img src="https://github.com/1984MSA/1984MSA/blob/main/LogoGray/Screenshot_7.1.png" height="50" width="52" alt="typescript logo"  />
+  <img src="https://github.com/1984MSA/1984MSA/blob/main/LogoGray/Screenshot_8.1.png" height="50" width="52" alt="react logo"  />
+  <img src="https://github.com/1984MSA/1984MSA/blob/main/LogoGray/Screenshot_9.1.png" height="50" width="52" alt="angularjs logo"  />
+  <img src="https://github.com/1984MSA/1984MSA/blob/main/LogoGray/Screenshot_4.1.png" height="50" width="52" alt="vuejs logo"  />
 </div>
 
 ###
