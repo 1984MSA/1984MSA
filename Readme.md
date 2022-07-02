@@ -1,32 +1,48 @@
-# ManoelAraujo_Vitae 
-Seja bem vindo ao meu Github!
+<div align="center">
+  <img src="https://profile-counter.glitch.me/1984/count.svg?"  />
+</div>
 
-## Sobre
-    
+###
 
+<p align="center">Manoel Araujo_Vitae</p>
+
+###
+
+<p align="center">Um desenvolvedor em desenvolvimento...</p>
+
+###
 
 <div align="center">
-  <a href="https://github.com/1984MSA">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=1984MSA&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1984MSA&layout=compact&langs_count=7&theme=onedark"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false&username=1984" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=1984" height="150" alt="languages graph"  />
 </div>
-  
-  
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="50" width="50" src="https://github.com/1984MSA/MSA_Arquivos/blob/main/Logo/Screenshot_1.png">
-  <img align="center" alt="CSS" height="50" width="50" src="https://github.com/1984MSA/MSA_Arquivos/blob/main/Logo/Screenshot_2.png">
-  <img align="center" alt="php" height="60" width="60" src="https://github.com/1984MSA/MSA_Arquivos/blob/main/Logo/Screenshot_5.png"> 
-  <img align="center" alt="Js" height="50" width="50" src="https://github.com/1984MSA/MSA_Arquivos/blob/main/Logo/Screenshot_3.png">
-  <img align="center" alt="python" height="50" width="50" src="https://github.com/1984MSA/MSA_Arquivos/blob/main/LogoGray/Screenshot_6.1.png">
-  <img align="center" alt="ts" height="50" width="50" src="https://github.com/1984MSA/MSA_Arquivos/blob/main/LogoGray/Screenshot_7.1.png">
-  <img align="center" alt="angular" height="50" width="50" src="https://github.com/1984MSA/MSA_Arquivos/blob/main/LogoGray/Screenshot_9.1.png">
-  <img align="center" alt="vs" height="40" width="40" src="https://github.com/1984MSA/MSA_Arquivos/blob/main/LogoGray/Screenshot_4.1.png">
-  <img align="center" alt="react" height="50" width="50" src="https://github.com/1984MSA/MSA_Arquivos/blob/main/LogoGray/Screenshot_8.1.png">
-</div>
-  
- ### Contato:
-    
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-gren?style=flat-square&logo=whatsapp&logoColor=white&link=LINK_GIT)](https://wa.me/message/B7EWIGLMRFLNN1)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=LINK_GIT)]() 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](LINK_LINKEDIN)
 
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
+</div>
+
+###
+
+<img href="https://raw.githubusercontent.com/1984/1984/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+</div>
+
+###
