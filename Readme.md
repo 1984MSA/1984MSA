@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center"<h1>Manoel Araujo_Vitae</h1></p>
+<h1 align="center">Manoel Araujo_Vitae</h1>
 
 ###
 
